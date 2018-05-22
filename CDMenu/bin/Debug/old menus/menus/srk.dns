@@ -1,0 +1,17 @@
+;Hamilton Library CD-Rom Menu
+;Revised Version, update date when you edit it.
+
+;Last Updated: 1/2006
+;by JY
+***************************************************
+@Record of Personnel Part I
+?C:\cdmenu\bat\srk04a.bat
+%Shokuinroku I
+***************************************************
+@Record of Personnel Part II
+?C:\cdmenu\bat\srk04b.bat
+%Shokuinroku II
+***************************************************
+@Return to Main Menu
+?menu.dns
+%

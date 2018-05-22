@@ -1,0 +1,15 @@
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\bin\Debug\CDMenu.exe.config
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\bin\Debug\CDMenu.exe.manifest
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\bin\Debug\CDMenu.application
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\bin\Debug\CDMenu.exe
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\bin\Debug\CDMenu.pdb
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.About.resources
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.AddDialog.resources
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.CDMenuWindow.resources
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.Properties.Resources.resources
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.UserControl1.resources
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu 1.1.csproj.GenerateResource.Cache
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.exe.manifest
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.application
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.exe
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.pdb

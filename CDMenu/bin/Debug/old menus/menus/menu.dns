@@ -1,0 +1,121 @@
+;Hamilton Library CD-Rom Menu
+;Revised Version, update date when you edit it.
+
+@Almanac of Business & Industrial  Financial Ratios
+?c:\CDMENU\BAT\Almanac.bat
+%Leo Troy, Ph.D.'s Almanac of Business and Industrial Financial Ratios
+***************************************************
+@Avery Index to Architectural Periodicals
+?C:\CDMENU\BAT\RVW.bat
+%G.K. Hall's Avery Index to Architectural Periodicals
+***************************************************
+@Biography Index
+?C:\CDMENU\BAT\BiographyIndex.bat
+%Needs CD from CIS Ref Desk
+***************************************************
+@Chronicle Guide to Grant
+?C:\CDMENU\BAT\Guide.bat
+%Needs CD from CIS Ref Desk
+***************************************************
+@Clothing & Textiles Arts CD-ROM
+?C:\CDMENU\BAT\cloth.bat
+%Needs CD from CIS Ref Desk
+***************************************************
+@Dance on Disc
+?C:\CDMENU\BAT\DANCE.bat
+%Dance on Disc
+***************************************************
+@Directory of U.S. Exporters 
+?C:\2001IDX\EIEXP\EIEXP.exe
+%Needs CD from CIS Ref Desk, 2001 Electronic Index
+***************************************************
+@Directory of U.S. Importers
+?C:\2001IDX\EIIMP\EIIMP.exe
+%Needs CD from CIS Ref Desk, 2001 Electronic Index
+***************************************************
+@Electronic HRAF
+?C:\EBTHRAF\BIN\DTEXTRW.EXE
+%Electronic Human Relations Area Files
+***************************************************
+@Encyclopedia Britannica on CD
+?C:\CDMENU\BAT\BCD.bat
+%Needs CD from CIS Ref Desk, 1996 Second Edition
+***************************************************
+@Executive Order 9066
+?C:\EO9066\NISEI.NIS
+%Needs CD from CIS Ref Desk, The Incarceration of Japanese American During WWII
+***************************************************
+@Foundation Center
+?C:\FCSearch32\FCSearch32.exe
+%Foundation Center's Database on CD-ROM v5.0
+***************************************************
+@Foundation Grants Index on CD-ROM
+?C:\GIONCD\GIONCD.exe
+%Foundation Center's Grants Index on CD-ROM v2.0
+***************************************************
+@Foundation Grants to Individuals
+?C:\FDNGTI\FDNGTI.exe
+%Foundation Grants to Individuals on CD
+***************************************************
+@Global Newsbank
+?c:\CDMENU\BAT\NEWSBANK.bat
+%Global Newsbank
+***************************************************
+@Grad Search 97
+?C:\CDMENU\BAT\GradSearch.bat
+%Needs CD from CIS Ref Desk, Peterson's Interactive 
+***************************************************
+@Granger's World of Poetry
+?D:\granger.exe 
+%Needs CD from CIS Ref Desk, Colombus University Press
+***************************************************
+@Grolier Encyclopedia Americana
+?C:\EA99\WIN\EA99CX35.exe
+%Needs cd from CIS Ref Desk, 1999 Edition
+***************************************************
+@Grolier Multimedia Encyclopedia
+?C:\progra~1\Grolie~1\GME96\GME96.exe
+%Needs cd from CIS Ref Desk. 1996 V.8.10
+***************************************************
+@Humanities Index
+?C:\CDMENU\BAT\Humanities.bat
+%Needs cd from CIS Ref Desk
+***************************************************
+@Journal Citation Reports
+?c:\JCR\program\JCR.exe
+%Needs CD from CIS Ref Desk, Institute of Science Information 1999 Social Sciences Edition
+***************************************************
+@Moody's Company Data
+?c:\MCDWIN\MCDWIN.exe
+%Moody's Company Data v.2.1
+***************************************************
+@National Geographic
+?c:\progra~1\The Complete National Geographic\NGMAG2.exe
+%Needs CD from CIS Ref Desk
+***************************************************
+@Nietzsches Werke
+?c:\CDMENU\BAT\PM.bat
+%Past Masters Nietzsches Werke
+***************************************************
+@Oxford English Dictionary
+?c:\progra~1\OED\OED.exe
+%Needs CD from CIS Ref Desk
+***************************************************
+@Performing Arts in Colonial American Newspaper
+?c:\CDMENU\BAT\Colonial.bat
+%Needs CD from CIS Ref Desk, University Music Dept, New York
+***************************************************
+@Social Science Citation Index
+?c:\cdewin\cdewin.exe
+%Social Science Citation Index
+***************************************************
+@Tesol Quarterly 1999
+?E:\\Z42B454\CDROMS\TESOL99\TQD_99\MAINMENU.PDF
+%Tesol Quarterly 1999
+***************************************************
+@Women's Resource International
+?C:\CDMENU\BAT\Women.bat
+%NISC Discover's Women's Resource International
+
+Rem Last Updated: 10:40 AM 3/14/02
+Rem by Alice

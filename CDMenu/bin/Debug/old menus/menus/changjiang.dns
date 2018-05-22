@@ -1,0 +1,20 @@
+;Hamilton Library Changjiang altas sub menu
+;Revised Version, update date when you edit it.
+
+;Last Updated: 1/18/05
+;by TT
+
+
+***************************************************
+@Atlas of sustainable development in Changjiang Economic Zone (Disc A)
+?bat\changjiang_a.bat
+%长江经济带可持续发展地图集 (Disc A)
+***************************************************
+@Atlas of sustainable development in Changjiang Economic Zone (Disc B)
+?bat\changjiang_b.bat
+%长江经济带可持续发展地图集 (Disc B)
+***************************************************
+@Return to Main Menu
+?menu.dns
+%
+***************************************************

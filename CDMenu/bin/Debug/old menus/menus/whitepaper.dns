@@ -1,0 +1,39 @@
+;Hamilton Library CD-Rom Menu
+;Revised Version, update date when you edit it.
+
+;Last Updated: 3/2008
+;by CW
+
+
+***************************************************
+@Information and Communication Whitepaper 2001
+?C:\cdmenu\bat\whitepaper01.bat
+%Jyouhou Tsuushin Hakusho 2001
+***************************************************
+@Information and Communication Whitepaper 2002
+?C:\cdmenu\bat\whitepaper02.bat
+%Jyouhou Tsuushin Hakusho 2002
+***************************************************
+@Information and Communication Whitepaper 2003
+?C:\cdmenu\bat\whitepaper03.bat
+%Jyouhou Tsuushin Hakusho 2003
+***************************************************
+@Information and Communication Whitepaper 2004
+?C:\cdmenu\bat\whitepaper04.bat
+%Jyouhou Tsuushin Hakusho 2004
+***************************************************
+@Information and Communication Whitepaper 2005
+?C:\cdmenu\bat\whitepaper05.bat
+%Jyouhou Tsuushin Hakusho 2005
+***************************************************
+@Information and Communication Whitepaper 2006
+?C:\cdmenu\bat\whitepaper06.bat
+%Jyouhou Tsuushin Hakusho 2006
+***************************************************
+@Information and Communication Whitepaper 2007
+?C:\cdmenu\bat\whitepaper07.bat
+%Jyouhou Tsuushin Hakusho 2007
+***************************************************
+@Return to Main Menu
+?menu.dns
+%

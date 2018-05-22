@@ -1,0 +1,27 @@
+;Hamilton Library CD-Rom Menu
+;Revised Version, update date when you edit it.
+
+;Last Updated: 2/2012
+;by JL
+
+
+***************************************************
+@琉球新報 Vol 1 1898-1903
+?C:\cdmenu\bat\OkinawaNews1.bat
+%琉球新報 Vol 1 1898-1903
+***************************************************
+@琉球新報 Vol 2 1904-1908
+?C:\cdmenu\bat\OkinawaNews2.bat
+%琉球新報 Vol 2 1904-1908
+***************************************************
+@琉球新報 Vol 3 1909-1913
+?C:\cdmenu\bat\OkinawaNews3.bat
+%琉球新報 Vol 3 1909-1913
+***************************************************
+@琉球新報 Vol 4 1914-1918
+?C:\cdmenu\bat\OkinawaNews4.bat
+%琉球新報 Vol 4 1914-1918
+***************************************************
+@Return to Main Menu
+?menu.dns
+%

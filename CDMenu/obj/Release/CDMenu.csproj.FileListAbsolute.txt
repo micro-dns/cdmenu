@@ -1,0 +1,15 @@
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\bin\Release\CDMenu.exe.config
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\bin\Release\CDMenu.exe.manifest
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\bin\Release\CDMenu.application
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\bin\Release\CDMenu.exe
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\bin\Release\CDMenu.pdb
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Release\CDMenu.About.resources
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Release\CDMenu.AddDialog.resources
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Release\CDMenu.CDMenuWindow.resources
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Release\CDMenu.Properties.Resources.resources
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Release\CDMenu.UserControl1.resources
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Release\CDMenu.csproj.GenerateResource.Cache
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Release\CDMenu.exe.manifest
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Release\CDMenu.application
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Release\CDMenu.exe
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Release\CDMenu.pdb

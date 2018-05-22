@@ -1,0 +1,20 @@
+;Hamilton Library Chongqing Statistical Yearbook sub menu
+;Revised Version, update date when you edit it.
+
+;Last Updated: 1/18/05
+;by TT
+
+
+***************************************************
+@Chongqing Statistical Yearbook 2000
+?bat\stat_yearbook\chongqing2000.bat
+%2000年 重庆统计年鉴
+***************************************************
+@Chongqing Statistical Yearbook 2002
+?bat\stat_yearbook\chongqing2002.bat
+%2002年 重庆统计年鉴
+***************************************************
+@Return to previous page
+?menus\stat_yearbook.dns
+%
+***************************************************

@@ -1,0 +1,51 @@
+;Hamilton Library CD-Rom Menu
+;Revised Version, update date when you edit it.
+
+;Last Updated: 1/2006
+;by JY
+
+
+***************************************************
+@Okinawa Historical Information Vol 1
+?C:\cdmenu\bat\okinawa1.bat
+%Okinawa no Rekishi Jouhou dai 1 kan
+***************************************************
+@Okinawa Historical Information Vol 2
+?C:\cdmenu\bat\okinawa2.bat
+%Okinawa no Rekishi Jouhou dai 2 kan
+***************************************************
+@Okinawa Historical Information Vol 3
+?C:\cdmenu\bat\okinawa3.bat
+%Okinawa no Rekishi Jouhou dai 3 kan
+***************************************************
+@Okinawa Historical Information Vol 4
+?C:\cdmenu\bat\okinawa4.bat
+%Okinawa no Rekishi Jouhou dai 4 kan
+***************************************************
+@Okinawa Historical Information Vol 5
+?C:\cdmenu\bat\okinawa5.bat
+%Okinawa no Rekishi Jouhou dai 5 kan
+***************************************************
+@Okinawa Historical Information Vol 6
+?C:\cdmenu\bat\okinawa6.bat
+%Okinawa no Rekishi Jouhou dai 6 kan
+***************************************************
+@Okinawa Historical Information Vol 7
+?C:\cdmenu\bat\okinawa7.bat
+%Okinawa no Rekishi Jouhou dai 7 kan
+***************************************************
+@Okinawa Historical Information Vol 8
+?C:\cdmenu\bat\okinawa8.bat
+%Okinawa no Rekishi Jouhou dai 8 kan
+***************************************************
+@Okinawa Historical Information Vol 9
+?C:\cdmenu\bat\okinawa9.bat
+%Okinawa no Rekishi Jouhou dai 9 kan
+***************************************************
+@Okinawa Historical Information Vol 10
+?C:\cdmenu\bat\okinawa10.bat
+%Okinawa no Rekishi Jouhou dai 10 kan
+***************************************************
+@Return to Main Menu
+?menu.dns
+%

@@ -1,0 +1,20 @@
+;Hamilton Library Taiwan-Fuchien Demographic Fact Book 2004 Sub Menu
+;Revised Version, update date when you edit it.
+
+;Last Updated: 12/22/05
+;by TT
+
+
+***************************************************
+@Taiwan-Fuchien Demographic Fact Book 2004 (Chinese)
+?bat\taiwanc.bat
+%Taiwan-Fuchien Demographic Fact Book 2004 (Chinese)
+***************************************************
+@Taiwan-Fuchien Demographic Fact Book 2004 (English)
+?bat\taiwane.bat
+%Taiwan-Fuchien Demographic Fact Book 2004 (English)
+***************************************************
+@Return to Main Menu
+?menu.dns
+%Return to Main Menu
+***************************************************

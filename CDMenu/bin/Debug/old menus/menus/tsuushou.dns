@@ -1,0 +1,27 @@
+;Hamilton Library CD-Rom Menu
+;Revised Version, update date when you edit it.
+
+;Last Updated: 1/2006
+;by JY
+
+
+***************************************************
+@Commerce Whitepaper 2001
+?C:\cdmenu\bat\tsuushou01.bat
+%Tsuushou Hakusho 2001
+***************************************************
+@Commerce Whitepaper 2002
+?C:\cdmenu\bat\tsuushou02.bat
+%Tsuushou Hakusho 2002
+***************************************************
+@Commerce Whitepaper 2003
+?C:\cdmenu\bat\tsuushou03.bat
+%Tsuushou Hakusho 2003
+***************************************************
+@Commerce Whitepaper 2005
+?C:\cdmenu\bat\tsuushou05.bat
+%Tsuushou Hakusho 2005
+***************************************************
+@Return to Main Menu
+?menu.dns
+%

@@ -1,0 +1,16 @@
+@-US Patents 1
+?c:\us patent\us1.pif
+%Disc 1
+
+@-US Patents 2
+?c:\us patent\us2.pif
+%Disc 2
+
+@-US Patents 3
+?c:\us patent\us3.pif
+%Disc 3
+
+@-Back to Main
+?menu.dns
+%Main Menu
+

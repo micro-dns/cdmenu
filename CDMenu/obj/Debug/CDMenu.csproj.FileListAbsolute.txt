@@ -1,0 +1,35 @@
+c:\users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\bin\Debug\CDMenu.exe.config
+c:\users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\bin\Debug\CDMenu.exe
+c:\users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\bin\Debug\CDMenu.pdb
+c:\users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Debug\CDMenu.Properties.Resources.resources
+c:\users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Debug\CDMenu.UserControl1.resources
+c:\users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Debug\CDMenu.csproj.GenerateResource.Cache
+c:\users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Debug\CDMenu.exe
+c:\users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Debug\CDMenu.pdb
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Debug\CDMenu.CDMenuWindow.resources
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Debug\CDMenu.About.resources
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\bin\Debug\CDMenu.exe.manifest
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\bin\Debug\CDMenu.application
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Debug\CDMenu.exe.manifest
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Debug\CDMenu.application
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Debug\CDMenu.AddDialog.resources
+C:\Users\spot\documents\visual studio 2012\Projects\CDMenu\CDMenu\obj\Debug\CDMenu.csprojResolveAssemblyReference.cache
+Z:\Projects\Visual Studio\CDMenu\CDMenu\bin\Debug\CDMenu.exe.config
+Z:\Projects\Visual Studio\CDMenu\CDMenu\obj\Debug\CDMenu.exe
+Z:\Projects\Visual Studio\CDMenu\CDMenu\obj\Debug\CDMenu.pdb
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\bin\Debug\CDMenu.exe.config
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.exe
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.pdb
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.csprojResolveAssemblyReference.cache
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.About.resources
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.AddDialog.resources
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.CDMenuWindow.resources
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.Properties.Resources.resources
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.UserControl1.resources
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.csproj.GenerateResource.Cache
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\bin\Debug\CDMenu.exe.manifest
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\bin\Debug\CDMenu.application
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\bin\Debug\CDMenu.exe
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\bin\Debug\CDMenu.pdb
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.exe.manifest
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Debug\CDMenu.application

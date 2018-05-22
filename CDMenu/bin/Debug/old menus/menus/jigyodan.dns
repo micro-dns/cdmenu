@@ -1,0 +1,19 @@
+;Hamilton Library CD-Rom Menu
+;Revised Version, update date when you edit it.
+
+;Last Updated: 3/2008
+;by JY
+
+
+***************************************************
+@‘Û‹¦—Í–‹Æ’c}‘ŠÙ1997
+?C:\cdmenu\bat\jigyodan97.bat
+%CD 284 - Zosho Mokuroku / Kokusai Kyoryoku Jigyodan Toshokan
+***************************************************
+@‘Û‹¦—Í–‹Æ’c}‘ŠÙ1998
+?C:\cdmenu\bat\jigyodan98.bat
+%CD 284 - Zosho Mokuroku / Kokusai Kyoryoku Jigyodan Toshokan
+***************************************************
+@Return to Main Menu
+?menu.dns
+%

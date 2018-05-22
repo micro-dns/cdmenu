@@ -1,0 +1,24 @@
+;Hamilton Library Anhui Statistical Yearbook sub menu
+;Revised Version, update date when you edit it.
+
+;Last Updated: 1/19/05
+;by TT
+
+
+***************************************************
+@Anhui Statistical Yearbook 2001
+?bat\anhui\anhui2001.bat
+%2001年 安徽统计年鉴
+***************************************************
+@Anhui Statistical Yearbook 2002
+?bat\anhui\anhui2002.bat
+%2002年 安徽统计年鉴
+***************************************************
+@Anhui Statistical Yearbook 2003
+?bat\anhui\anhui2003.bat
+%2003年 安徽统计年鉴
+***************************************************
+@Return to previous page
+?menus\stat_yearbook.dns
+%
+***************************************************

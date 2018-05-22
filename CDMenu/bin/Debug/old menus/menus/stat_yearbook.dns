@@ -1,0 +1,80 @@
+;Hamilton Library Chinese Statistical Yearbook sub menu
+;Revised Version, update date when you edit it.
+
+;Last Updated: 1/18/06
+;by TT
+
+
+***************************************************
+@Anhui Statistical Yearbooks
+?menus\anhui.dns
+%
+***************************************************
+@Beijing Statistical Yearbook 2000
+?bat\stat_yearbook\beijing2000.bat
+%2000年 北京统计年鉴
+***************************************************
+@Chinese Statistical Yearbook 1999
+?bat\stat_yearbook\yearbook1999.bat
+%
+***************************************************
+@Chongqing Statistical Yearbooks
+?menus\chongqing.dns
+%
+***************************************************
+@Fujian Statistical Yearbook 2004
+?bat\stat_yearbook\fujian2004.bat
+%2004年 福建统计年鉴
+***************************************************
+@Gansu Statistical Yearbook 2003
+?bat\stat_yearbook\gansu2003.bat
+%2003年 甘肃统计年鉴
+***************************************************
+@Henan Statistical Yearbook 2004
+?bat\stat_yearbook\henan2004.bat
+%2004年 河南统计年鉴
+***************************************************
+@Hunan Statistical Yearbook 2000
+?bat\stat_yearbook\hunan2000.bat
+%2000年 湖南统计年鉴
+***************************************************
+@Inner Mongolia Statistical Yearbooks
+?menus\mongol.dns
+%
+***************************************************
+@Jiangsu Statistical Yearbook 2004
+?bat\stat_yearbook\jiangsu2004.bat
+%2004年 江苏统计年鉴
+***************************************************
+@Jiangxi Statistical Yearbook 2002
+?bat\stat_yearbook\jiangxi2002.bat
+%2002年 江西统计年鉴
+***************************************************
+@Ningxia Statistical Yearbook 2004
+?bat\stat_yearbook\ningxia2004.bat
+%2004年 宁夏统计年鉴
+***************************************************
+@Shandong Statistical Yearbooks
+?menus\shandong.dns
+%
+***************************************************
+@Shanghai Statistical Yearbook 2004
+?bat\stat_yearbook\shanghai2004.bat
+%2004年 上海统计年鉴
+***************************************************
+@Shanghai Pudong Xinqu New Area Statistical Yearbook 2004
+?bat\stat_yearbook\pudong2004.bat
+%2004年 上海浦东新区统计年报
+***************************************************
+@Shanxi Statistical Yearbook 2004
+?bat\stat_yearbook\shanxi2004.bat
+%2004年 山西统计年鉴
+***************************************************
+@Xinjiang Statistical Yearbooks
+?menus\xinjiang.dns
+%
+***************************************************
+@Return to Main Menu
+?menu.dns
+%
+***************************************************

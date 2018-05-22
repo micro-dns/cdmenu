@@ -1,0 +1,29 @@
+;Hamilton Library CD-Rom Menu
+;Revised Version, update date when you edit it.
+
+;Last Updated: 1/2006
+;by JY
+***************************************************
+@Small to Medium Enterprise Whitepaper 2001
+?C:\cdmenu\bat\chusho01.bat
+%Chuu Shou Kigyou Kausho 2001
+***************************************************
+@Small to Medium Enterprise Whitepaper 2002
+?C:\cdmenu\bat\chusho02.bat
+%Chuu Shou Kigyou Kausho 2002
+***************************************************
+@Small to Medium Enterprise Whitepaper 2003
+?C:\cdmenu\bat\chusho03.bat
+%Chuu Shou Kigyou Kausho 2003
+***************************************************
+@Small to Medium Enterprise Whitepaper 2004
+?C:\cdmenu\bat\chusho04.bat
+%Chuu Shou Kigyou Kausho 2004
+***************************************************
+@Small to Medium Enterprise Whitepaper 2005
+?C:\cdmenu\bat\chusho05.bat
+%Chuu Shou Kigyou Kausho 2005
+***************************************************
+@Return to Main Menu
+?menu.dns
+%

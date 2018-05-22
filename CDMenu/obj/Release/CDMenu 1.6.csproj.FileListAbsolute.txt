@@ -1,0 +1,48 @@
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\bin\Release\CDMenu.exe.config
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\bin\Release\CDMenu.exe.manifest
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\bin\Release\CDMenu.application
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\bin\Release\CDMenu.exe
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\bin\Release\CDMenu.pdb
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Release\CDMenu 1.6.csprojResolveAssemblyReference.cache
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Release\CDMenu.About.resources
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Release\CDMenu.AddDialog.resources
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Release\CDMenu.CDMenuWindow.resources
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Release\CDMenu.Properties.Resources.resources
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Release\CDMenu.SubForms.Message.resources
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Release\CDMenu 1.6.csproj.GenerateResource.Cache
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Release\CDMenu.exe.manifest
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Release\CDMenu.application
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Release\CDMenu.exe
+Z:\Projects\Visual Studio\CDMenu 2\CDMenu\obj\Release\CDMenu.pdb
+Z:\Projects\Visual Studio\CDMenu\CDMenu\bin\Release\CDMenu.exe.config
+Z:\Projects\Visual Studio\CDMenu\CDMenu\bin\Release\CDMenu.exe.manifest
+Z:\Projects\Visual Studio\CDMenu\CDMenu\bin\Release\CDMenu.application
+Z:\Projects\Visual Studio\CDMenu\CDMenu\bin\Release\CDMenu.exe
+Z:\Projects\Visual Studio\CDMenu\CDMenu\bin\Release\CDMenu.pdb
+Z:\Projects\Visual Studio\CDMenu\CDMenu\obj\Release\CDMenu 1.6.csprojResolveAssemblyReference.cache
+Z:\Projects\Visual Studio\CDMenu\CDMenu\obj\Release\CDMenu.About.resources
+Z:\Projects\Visual Studio\CDMenu\CDMenu\obj\Release\CDMenu.AddDialog.resources
+Z:\Projects\Visual Studio\CDMenu\CDMenu\obj\Release\CDMenu.CDMenuWindow.resources
+Z:\Projects\Visual Studio\CDMenu\CDMenu\obj\Release\CDMenu.Properties.Resources.resources
+Z:\Projects\Visual Studio\CDMenu\CDMenu\obj\Release\CDMenu.SubForms.Message.resources
+Z:\Projects\Visual Studio\CDMenu\CDMenu\obj\Release\CDMenu 1.6.csproj.GenerateResource.Cache
+Z:\Projects\Visual Studio\CDMenu\CDMenu\obj\Release\CDMenu.exe.manifest
+Z:\Projects\Visual Studio\CDMenu\CDMenu\obj\Release\CDMenu.application
+Z:\Projects\Visual Studio\CDMenu\CDMenu\obj\Release\CDMenu.exe
+Z:\Projects\Visual Studio\CDMenu\CDMenu\obj\Release\CDMenu.pdb
+C:\SmartGit\cdmenu\CDMenu\bin\Release\CDMenu.exe.config
+C:\SmartGit\cdmenu\CDMenu\bin\Release\CDMenu.exe.manifest
+C:\SmartGit\cdmenu\CDMenu\bin\Release\CDMenu.application
+C:\SmartGit\cdmenu\CDMenu\bin\Release\CDMenu.exe
+C:\SmartGit\cdmenu\CDMenu\bin\Release\CDMenu.pdb
+C:\SmartGit\cdmenu\CDMenu\obj\Release\CDMenu 1.6.csprojResolveAssemblyReference.cache
+C:\SmartGit\cdmenu\CDMenu\obj\Release\CDMenu.About.resources
+C:\SmartGit\cdmenu\CDMenu\obj\Release\CDMenu.AddDialog.resources
+C:\SmartGit\cdmenu\CDMenu\obj\Release\CDMenu.CDMenuWindow.resources
+C:\SmartGit\cdmenu\CDMenu\obj\Release\CDMenu.Properties.Resources.resources
+C:\SmartGit\cdmenu\CDMenu\obj\Release\CDMenu.SubForms.Message.resources
+C:\SmartGit\cdmenu\CDMenu\obj\Release\CDMenu 1.6.csproj.GenerateResource.Cache
+C:\SmartGit\cdmenu\CDMenu\obj\Release\CDMenu.exe.manifest
+C:\SmartGit\cdmenu\CDMenu\obj\Release\CDMenu.application
+C:\SmartGit\cdmenu\CDMenu\obj\Release\CDMenu.exe
+C:\SmartGit\cdmenu\CDMenu\obj\Release\CDMenu.pdb

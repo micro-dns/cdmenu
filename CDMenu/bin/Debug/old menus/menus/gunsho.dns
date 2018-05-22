@@ -1,0 +1,23 @@
+;Hamilton Library CD-Rom Menu
+;Revised Version, update date when you edit it.
+
+;Last Updated: 1/2006
+;by JY
+
+
+
+@Gunshoruijyuu Vol 1
+?C:\cdmenu\bat\gunsho1.bat
+%Gunshoruijyuu Dai 1 kan
+
+@Gunshoruijyuu Vol 2
+?C:\cdmenu\bat\gunsho2.bat
+%Gunshoruijyuu Dai 2 kan
+
+@Gunshoruijyuu Vol 3
+?C:\cdmenu\bat\gunsho3.bat
+%Gunshoruijyuu Dai 3 kan
+
+@Return to Main Menu
+?menu.dns
+%
