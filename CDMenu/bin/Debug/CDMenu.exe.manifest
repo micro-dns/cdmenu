@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CDMenu.exe" size="162304">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CDMenu.exe" size="161280">
       <assemblyIdentity name="CDMenu" version="1.6.1.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ejDHNIt/0D8TMtISGsMnwEdGMSZOmkmMZRc8RDCxZN4=</dsig:DigestValue>
+        <dsig:DigestValue>cQr63Knm/MVVfJRKiOA/vacOrP1oFL64iN9BF8cjZPs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
