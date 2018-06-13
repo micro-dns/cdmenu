@@ -12,7 +12,7 @@ namespace CDMenu.Util
 
         public static List<MenuItem> readMENUFile(String path)
         {
-            if (path == "")
+            if (path.Trim().Equals(""))
             {
                 SubForms.Message message = new SubForms.Message("ERROR", "readMENUFile path is empty!\n" + path);
                 message.ShowDialog();
@@ -22,7 +22,7 @@ namespace CDMenu.Util
             else
             {
                 
-                Directory.SetCurrentDirectory(Program.WORKING_DIR);
+                Directory.SetCurrentDirectory(Program.SETTINGS.WORKING_DIR);
 
                 List<MenuItem> buffer = new List<MenuItem>();
                 List<String> lineBuffer = new List<String>();

@@ -46,3 +46,23 @@ C:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.exe.manifest
 C:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.application
 C:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.exe
 C:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.pdb
+E:\SmartGit\cdmenu\CDMenu\bin\Debug\CDMenu.exe.config
+E:\SmartGit\cdmenu\CDMenu\bin\Debug\CDMenu.exe.manifest
+E:\SmartGit\cdmenu\CDMenu\bin\Debug\CDMenu.application
+E:\SmartGit\cdmenu\CDMenu\bin\Debug\CDMenu.exe
+E:\SmartGit\cdmenu\CDMenu\bin\Debug\CDMenu.pdb
+E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu 1.6.csprojAssemblyReference.cache
+E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.About.resources
+E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.AddDialog.resources
+E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.Properties.Resources.resources
+E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.SubForms.Message.resources
+E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu 1.6.csproj.GenerateResource.cache
+E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu 1.6.csproj.CoreCompileInputs.cache
+E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.exe.manifest
+E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.application
+E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.exe
+E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.pdb
+E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.MainWindow.resources
+E:\SmartGit\cdmenu\CDMenu\bin\Debug\Newtonsoft.Json.dll
+E:\SmartGit\cdmenu\CDMenu\bin\Debug\Newtonsoft.Json.xml
+E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu 1.6.csproj.CopyComplete

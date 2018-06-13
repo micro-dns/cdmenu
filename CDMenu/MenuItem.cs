@@ -10,6 +10,14 @@ namespace CDMenu
     {
         public Util.KVList ATTRIBS = new Util.KVList();
 
+        public String CALLNO { get; set; }
+        public String PRIMARY_TITLE { get; set; }
+        public String SECONDARY_TITLE { get; set; }
+        public String LAUNCH_PATH { get; set; }
+        public String IMAGE_PATH { get; set; }
+        public String REQUIRED { get; set; }
+        public String DESCRIPTION { get; set; }
+
         public Boolean IsBackLink { get; set; }
 
         public MenuItem()
@@ -29,6 +37,7 @@ namespace CDMenu
 
         public MenuItem(String CALLNO, String PRIMARY_TITLE, String SECONDARY_TITLE, String PATH, Boolean REQUIRED, String DESCRIPTION)
         {
+            //todo remove, read as JSON instead
             ATTRIBS.Items.Add(new Util.KVPair("CALLNO", CALLNO));
             ATTRIBS.Items.Add(new Util.KVPair("PRIMARY_TITLE", PRIMARY_TITLE));
             ATTRIBS.Items.Add(new Util.KVPair("SECONDARY_TITLE", SECONDARY_TITLE));
