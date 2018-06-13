@@ -54,8 +54,19 @@ namespace CDMenu
 
             } else
             {
-                //if menu.menu exists
-                //else if menu.menu exists
+                String cdmenu_menu_path = SETTINGS.WORKING_DIR + "\\" + "menu.menu";
+                String cdmenu_dns_path = SETTINGS.WORKING_DIR + "\\" + "menu.dns";
+
+                //this will deal with cdmenu formats v1 and v2 and convert them to json
+                if (File.Exists(cdmenu_menu_path))
+                {
+                    Console.WriteLine(".menu file found. Crawling and converting");
+                    //crawl .menu files
+                } else if (File.Exists(cdmenu_dns_path))
+                {
+                    Console.WriteLine(".dns file found. Crawling and converting");
+                    //crawl .dns files
+                }
 
                 startupmsg.Add("No main menu file was found, so a default menu.json file was created at \"PATH\". Be sure to add items to CDMenu!");
             }
