@@ -62,8 +62,6 @@ E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.exe.manifest
 E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.application
 E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.exe
 E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.pdb
-E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.MainWindow.resources
-E:\SmartGit\cdmenu\CDMenu\bin\Debug\Newtonsoft.Json.dll
 E:\SmartGit\cdmenu\CDMenu\bin\Debug\Newtonsoft.Json.xml
 E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu 1.6.csproj.CopyComplete
 C:\SmartGit\cdmenu\cdmenu.git\CDMenu\obj\Debug\CDMenu 1.6.csprojResolveAssemblyReference.cache
@@ -85,3 +83,5 @@ C:\SmartGit\cdmenu\cdmenu.git\CDMenu\bin\Debug\Newtonsoft.Json.dll
 C:\SmartGit\cdmenu\cdmenu.git\CDMenu\bin\Debug\Newtonsoft.Json.xml
 C:\SmartGit\cdmenu\cdmenu.git\CDMenu\obj\Debug\CDMenu.exe.manifest
 C:\SmartGit\cdmenu\cdmenu.git\CDMenu\obj\Debug\CDMenu.application
+E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.CDMenuWindow.resources
+E:\SmartGit\cdmenu\CDMenu\obj\Debug\CDMenu.SubForms.ItemManager.resources

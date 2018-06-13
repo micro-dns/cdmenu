@@ -28,6 +28,63 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.TreeNode treeNode1 = new System.Windows.Forms.TreeNode("Node6");
+            System.Windows.Forms.TreeNode treeNode2 = new System.Windows.Forms.TreeNode("Node7");
+            System.Windows.Forms.TreeNode treeNode3 = new System.Windows.Forms.TreeNode("Node8");
+            System.Windows.Forms.TreeNode treeNode4 = new System.Windows.Forms.TreeNode("Node9");
+            System.Windows.Forms.TreeNode treeNode5 = new System.Windows.Forms.TreeNode("Node1", new System.Windows.Forms.TreeNode[] {
+            treeNode1,
+            treeNode2,
+            treeNode3,
+            treeNode4});
+            System.Windows.Forms.TreeNode treeNode6 = new System.Windows.Forms.TreeNode("Node4");
+            System.Windows.Forms.TreeNode treeNode7 = new System.Windows.Forms.TreeNode("Node5");
+            System.Windows.Forms.TreeNode treeNode8 = new System.Windows.Forms.TreeNode("Node2", new System.Windows.Forms.TreeNode[] {
+            treeNode6,
+            treeNode7});
+            System.Windows.Forms.TreeNode treeNode9 = new System.Windows.Forms.TreeNode("Node3");
+            System.Windows.Forms.TreeNode treeNode10 = new System.Windows.Forms.TreeNode("Node0", new System.Windows.Forms.TreeNode[] {
+            treeNode5,
+            treeNode8,
+            treeNode9});
+            System.Windows.Forms.TreeNode treeNode11 = new System.Windows.Forms.TreeNode("Node10");
+            System.Windows.Forms.TreeNode treeNode12 = new System.Windows.Forms.TreeNode("Node20");
+            System.Windows.Forms.TreeNode treeNode13 = new System.Windows.Forms.TreeNode("Node21");
+            System.Windows.Forms.TreeNode treeNode14 = new System.Windows.Forms.TreeNode("Node11", new System.Windows.Forms.TreeNode[] {
+            treeNode12,
+            treeNode13});
+            System.Windows.Forms.TreeNode treeNode15 = new System.Windows.Forms.TreeNode("Node17");
+            System.Windows.Forms.TreeNode treeNode16 = new System.Windows.Forms.TreeNode("Node18");
+            System.Windows.Forms.TreeNode treeNode17 = new System.Windows.Forms.TreeNode("Node19");
+            System.Windows.Forms.TreeNode treeNode18 = new System.Windows.Forms.TreeNode("Node12", new System.Windows.Forms.TreeNode[] {
+            treeNode15,
+            treeNode16,
+            treeNode17});
+            System.Windows.Forms.TreeNode treeNode19 = new System.Windows.Forms.TreeNode("Node13");
+            System.Windows.Forms.TreeNode treeNode20 = new System.Windows.Forms.TreeNode("Node14");
+            System.Windows.Forms.TreeNode treeNode21 = new System.Windows.Forms.TreeNode("Node22");
+            System.Windows.Forms.TreeNode treeNode22 = new System.Windows.Forms.TreeNode("Node23");
+            System.Windows.Forms.TreeNode treeNode23 = new System.Windows.Forms.TreeNode("Node24");
+            System.Windows.Forms.TreeNode treeNode24 = new System.Windows.Forms.TreeNode("Node25");
+            System.Windows.Forms.TreeNode treeNode25 = new System.Windows.Forms.TreeNode("Node26");
+            System.Windows.Forms.TreeNode treeNode26 = new System.Windows.Forms.TreeNode("Node27");
+            System.Windows.Forms.TreeNode treeNode27 = new System.Windows.Forms.TreeNode("Node28");
+            System.Windows.Forms.TreeNode treeNode28 = new System.Windows.Forms.TreeNode("Node29");
+            System.Windows.Forms.TreeNode treeNode29 = new System.Windows.Forms.TreeNode("Node30");
+            System.Windows.Forms.TreeNode treeNode30 = new System.Windows.Forms.TreeNode("Node31");
+            System.Windows.Forms.TreeNode treeNode31 = new System.Windows.Forms.TreeNode("Node15", new System.Windows.Forms.TreeNode[] {
+            treeNode21,
+            treeNode22,
+            treeNode23,
+            treeNode24,
+            treeNode25,
+            treeNode26,
+            treeNode27,
+            treeNode28,
+            treeNode29,
+            treeNode30});
+            System.Windows.Forms.TreeNode treeNode32 = new System.Windows.Forms.TreeNode("Node16");
             this.MenuItemTreeView = new System.Windows.Forms.TreeView();
             this.OKButton = new System.Windows.Forms.Button();
             this.SaveButton = new System.Windows.Forms.Button();
@@ -42,51 +99,133 @@
             this.DescriptionTextBox = new System.Windows.Forms.TextBox();
             this.MetaGroupBox = new System.Windows.Forms.GroupBox();
             this.FileGroupBox = new System.Windows.Forms.GroupBox();
-            this.MediaRequiredCheckBox = new System.Windows.Forms.CheckBox();
-            this.LaunchPathTextBox = new System.Windows.Forms.TextBox();
-            this.ImageTextBox = new System.Windows.Forms.TextBox();
-            this.LaunchPathBrowseButton = new System.Windows.Forms.Button();
-            this.ImageBrowseButton = new System.Windows.Forms.Button();
-            this.ImageLabel = new System.Windows.Forms.Label();
             this.LaunchPathLabel = new System.Windows.Forms.Label();
+            this.ImageLabel = new System.Windows.Forms.Label();
+            this.ImageBrowseButton = new System.Windows.Forms.Button();
+            this.LaunchPathBrowseButton = new System.Windows.Forms.Button();
+            this.ImageTextBox = new System.Windows.Forms.TextBox();
+            this.LaunchPathTextBox = new System.Windows.Forms.TextBox();
+            this.MediaRequiredCheckBox = new System.Windows.Forms.CheckBox();
+            this.MenuItemContextMenuStrip = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.addSubItemToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.deleteItemToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.MetaGroupBox.SuspendLayout();
             this.FileGroupBox.SuspendLayout();
+            this.MenuItemContextMenuStrip.SuspendLayout();
             this.SuspendLayout();
             // 
             // MenuItemTreeView
             // 
+            this.MenuItemTreeView.ContextMenuStrip = this.MenuItemContextMenuStrip;
             this.MenuItemTreeView.Location = new System.Drawing.Point(10, 11);
-            this.MenuItemTreeView.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.MenuItemTreeView.Margin = new System.Windows.Forms.Padding(2);
             this.MenuItemTreeView.Name = "MenuItemTreeView";
+            treeNode1.Name = "Node6";
+            treeNode1.Text = "Node6";
+            treeNode2.Name = "Node7";
+            treeNode2.Text = "Node7";
+            treeNode3.Name = "Node8";
+            treeNode3.Text = "Node8";
+            treeNode4.Name = "Node9";
+            treeNode4.Text = "Node9";
+            treeNode5.Name = "Node1";
+            treeNode5.Text = "Node1";
+            treeNode6.Name = "Node4";
+            treeNode6.Text = "Node4";
+            treeNode7.Name = "Node5";
+            treeNode7.Text = "Node5";
+            treeNode8.Name = "Node2";
+            treeNode8.Text = "Node2";
+            treeNode9.Name = "Node3";
+            treeNode9.Text = "Node3";
+            treeNode10.Name = "Node0";
+            treeNode10.Text = "Node0";
+            treeNode11.Name = "Node10";
+            treeNode11.Text = "Node10";
+            treeNode12.Name = "Node20";
+            treeNode12.Text = "Node20";
+            treeNode13.Name = "Node21";
+            treeNode13.Text = "Node21";
+            treeNode14.Name = "Node11";
+            treeNode14.Text = "Node11";
+            treeNode15.Name = "Node17";
+            treeNode15.Text = "Node17";
+            treeNode16.Name = "Node18";
+            treeNode16.Text = "Node18";
+            treeNode17.Name = "Node19";
+            treeNode17.Text = "Node19";
+            treeNode18.Name = "Node12";
+            treeNode18.Text = "Node12";
+            treeNode19.Name = "Node13";
+            treeNode19.Text = "Node13";
+            treeNode20.Name = "Node14";
+            treeNode20.Text = "Node14";
+            treeNode21.Name = "Node22";
+            treeNode21.Text = "Node22";
+            treeNode22.Name = "Node23";
+            treeNode22.Text = "Node23";
+            treeNode23.Name = "Node24";
+            treeNode23.Text = "Node24";
+            treeNode24.Name = "Node25";
+            treeNode24.Text = "Node25";
+            treeNode25.Name = "Node26";
+            treeNode25.Text = "Node26";
+            treeNode26.Name = "Node27";
+            treeNode26.Text = "Node27";
+            treeNode27.Name = "Node28";
+            treeNode27.Text = "Node28";
+            treeNode28.Name = "Node29";
+            treeNode28.Text = "Node29";
+            treeNode29.Name = "Node30";
+            treeNode29.Text = "Node30";
+            treeNode30.Name = "Node31";
+            treeNode30.Text = "Node31";
+            treeNode31.Name = "Node15";
+            treeNode31.Text = "Node15";
+            treeNode32.Name = "Node16";
+            treeNode32.Text = "Node16";
+            this.MenuItemTreeView.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
+            treeNode10,
+            treeNode11,
+            treeNode14,
+            treeNode18,
+            treeNode19,
+            treeNode20,
+            treeNode31,
+            treeNode32});
             this.MenuItemTreeView.Size = new System.Drawing.Size(272, 431);
             this.MenuItemTreeView.TabIndex = 0;
+            this.MenuItemTreeView.NodeMouseClick += new System.Windows.Forms.TreeNodeMouseClickEventHandler(this.MenuItemTreeView_NodeMouseClick);
             // 
             // OKButton
             // 
             this.OKButton.Location = new System.Drawing.Point(498, 419);
             this.OKButton.Name = "OKButton";
             this.OKButton.Size = new System.Drawing.Size(75, 23);
-            this.OKButton.TabIndex = 1;
+            this.OKButton.TabIndex = 0;
             this.OKButton.Text = "OK";
             this.OKButton.UseVisualStyleBackColor = true;
+            this.OKButton.Click += new System.EventHandler(this.OKButton_Click);
             // 
             // SaveButton
             // 
             this.SaveButton.Location = new System.Drawing.Point(579, 419);
             this.SaveButton.Name = "SaveButton";
             this.SaveButton.Size = new System.Drawing.Size(75, 23);
-            this.SaveButton.TabIndex = 2;
+            this.SaveButton.TabIndex = 1;
             this.SaveButton.Text = "Save";
             this.SaveButton.UseVisualStyleBackColor = true;
+            this.SaveButton.Click += new System.EventHandler(this.SaveButton_Click);
             // 
             // CancelButton
             // 
             this.CancelButton.Location = new System.Drawing.Point(660, 419);
             this.CancelButton.Name = "CancelButton";
             this.CancelButton.Size = new System.Drawing.Size(75, 23);
-            this.CancelButton.TabIndex = 3;
+            this.CancelButton.TabIndex = 2;
             this.CancelButton.Text = "Cancel";
             this.CancelButton.UseVisualStyleBackColor = true;
+            this.CancelButton.Click += new System.EventHandler(this.CancelButton_Click);
             // 
             // PrimaryTitleTextBox
             // 
@@ -94,7 +233,7 @@
             this.PrimaryTitleTextBox.Location = new System.Drawing.Point(123, 49);
             this.PrimaryTitleTextBox.Name = "PrimaryTitleTextBox";
             this.PrimaryTitleTextBox.Size = new System.Drawing.Size(301, 24);
-            this.PrimaryTitleTextBox.TabIndex = 4;
+            this.PrimaryTitleTextBox.TabIndex = 1;
             // 
             // SecondaryTitleTextBox
             // 
@@ -102,7 +241,7 @@
             this.SecondaryTitleTextBox.Location = new System.Drawing.Point(123, 79);
             this.SecondaryTitleTextBox.Name = "SecondaryTitleTextBox";
             this.SecondaryTitleTextBox.Size = new System.Drawing.Size(301, 24);
-            this.SecondaryTitleTextBox.TabIndex = 5;
+            this.SecondaryTitleTextBox.TabIndex = 2;
             // 
             // PrimaryTitleLabel
             // 
@@ -140,7 +279,7 @@
             this.CallNumberTextBox.Location = new System.Drawing.Point(123, 19);
             this.CallNumberTextBox.Name = "CallNumberTextBox";
             this.CallNumberTextBox.Size = new System.Drawing.Size(152, 24);
-            this.CallNumberTextBox.TabIndex = 8;
+            this.CallNumberTextBox.TabIndex = 0;
             // 
             // DescriptionLabel
             // 
@@ -159,7 +298,7 @@
             this.DescriptionTextBox.Multiline = true;
             this.DescriptionTextBox.Name = "DescriptionTextBox";
             this.DescriptionTextBox.Size = new System.Drawing.Size(301, 167);
-            this.DescriptionTextBox.TabIndex = 10;
+            this.DescriptionTextBox.TabIndex = 3;
             // 
             // MetaGroupBox
             // 
@@ -194,48 +333,15 @@
             this.FileGroupBox.TabStop = false;
             this.FileGroupBox.Text = "File";
             // 
-            // MediaRequiredCheckBox
+            // LaunchPathLabel
             // 
-            this.MediaRequiredCheckBox.AutoSize = true;
-            this.MediaRequiredCheckBox.Location = new System.Drawing.Point(36, 73);
-            this.MediaRequiredCheckBox.Name = "MediaRequiredCheckBox";
-            this.MediaRequiredCheckBox.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.MediaRequiredCheckBox.Size = new System.Drawing.Size(101, 17);
-            this.MediaRequiredCheckBox.TabIndex = 0;
-            this.MediaRequiredCheckBox.Text = "Media Required";
-            this.MediaRequiredCheckBox.UseVisualStyleBackColor = true;
-            // 
-            // LaunchPathTextBox
-            // 
-            this.LaunchPathTextBox.Location = new System.Drawing.Point(123, 20);
-            this.LaunchPathTextBox.Name = "LaunchPathTextBox";
-            this.LaunchPathTextBox.Size = new System.Drawing.Size(252, 20);
-            this.LaunchPathTextBox.TabIndex = 1;
-            // 
-            // ImageTextBox
-            // 
-            this.ImageTextBox.Location = new System.Drawing.Point(123, 46);
-            this.ImageTextBox.Name = "ImageTextBox";
-            this.ImageTextBox.Size = new System.Drawing.Size(252, 20);
-            this.ImageTextBox.TabIndex = 2;
-            // 
-            // LaunchPathBrowseButton
-            // 
-            this.LaunchPathBrowseButton.Location = new System.Drawing.Point(381, 20);
-            this.LaunchPathBrowseButton.Name = "LaunchPathBrowseButton";
-            this.LaunchPathBrowseButton.Size = new System.Drawing.Size(50, 20);
-            this.LaunchPathBrowseButton.TabIndex = 3;
-            this.LaunchPathBrowseButton.Text = "...";
-            this.LaunchPathBrowseButton.UseVisualStyleBackColor = true;
-            // 
-            // ImageBrowseButton
-            // 
-            this.ImageBrowseButton.Location = new System.Drawing.Point(381, 46);
-            this.ImageBrowseButton.Name = "ImageBrowseButton";
-            this.ImageBrowseButton.Size = new System.Drawing.Size(50, 20);
-            this.ImageBrowseButton.TabIndex = 4;
-            this.ImageBrowseButton.Text = "...";
-            this.ImageBrowseButton.UseVisualStyleBackColor = true;
+            this.LaunchPathLabel.AutoSize = true;
+            this.LaunchPathLabel.Location = new System.Drawing.Point(49, 23);
+            this.LaunchPathLabel.Name = "LaunchPathLabel";
+            this.LaunchPathLabel.Size = new System.Drawing.Size(68, 13);
+            this.LaunchPathLabel.TabIndex = 13;
+            this.LaunchPathLabel.Text = "Launch Path";
+            this.LaunchPathLabel.TextAlign = System.Drawing.ContentAlignment.TopRight;
             // 
             // ImageLabel
             // 
@@ -247,22 +353,78 @@
             this.ImageLabel.Text = "Image";
             this.ImageLabel.TextAlign = System.Drawing.ContentAlignment.TopRight;
             // 
-            // LaunchPathLabel
+            // ImageBrowseButton
             // 
-            this.LaunchPathLabel.AutoSize = true;
-            this.LaunchPathLabel.Location = new System.Drawing.Point(49, 23);
-            this.LaunchPathLabel.Name = "LaunchPathLabel";
-            this.LaunchPathLabel.Size = new System.Drawing.Size(68, 13);
-            this.LaunchPathLabel.TabIndex = 13;
-            this.LaunchPathLabel.Text = "Launch Path";
-            this.LaunchPathLabel.TextAlign = System.Drawing.ContentAlignment.TopRight;
+            this.ImageBrowseButton.Location = new System.Drawing.Point(381, 46);
+            this.ImageBrowseButton.Name = "ImageBrowseButton";
+            this.ImageBrowseButton.Size = new System.Drawing.Size(50, 20);
+            this.ImageBrowseButton.TabIndex = 3;
+            this.ImageBrowseButton.Text = "...";
+            this.ImageBrowseButton.UseVisualStyleBackColor = true;
+            this.ImageBrowseButton.Click += new System.EventHandler(this.ImageBrowseButton_Click);
+            // 
+            // LaunchPathBrowseButton
+            // 
+            this.LaunchPathBrowseButton.Location = new System.Drawing.Point(381, 20);
+            this.LaunchPathBrowseButton.Name = "LaunchPathBrowseButton";
+            this.LaunchPathBrowseButton.Size = new System.Drawing.Size(50, 20);
+            this.LaunchPathBrowseButton.TabIndex = 1;
+            this.LaunchPathBrowseButton.Text = "...";
+            this.LaunchPathBrowseButton.UseVisualStyleBackColor = true;
+            this.LaunchPathBrowseButton.Click += new System.EventHandler(this.LaunchPathBrowseButton_Click);
+            // 
+            // ImageTextBox
+            // 
+            this.ImageTextBox.Location = new System.Drawing.Point(123, 46);
+            this.ImageTextBox.Name = "ImageTextBox";
+            this.ImageTextBox.Size = new System.Drawing.Size(252, 20);
+            this.ImageTextBox.TabIndex = 2;
+            // 
+            // LaunchPathTextBox
+            // 
+            this.LaunchPathTextBox.Location = new System.Drawing.Point(123, 20);
+            this.LaunchPathTextBox.Name = "LaunchPathTextBox";
+            this.LaunchPathTextBox.Size = new System.Drawing.Size(252, 20);
+            this.LaunchPathTextBox.TabIndex = 0;
+            // 
+            // MediaRequiredCheckBox
+            // 
+            this.MediaRequiredCheckBox.AutoSize = true;
+            this.MediaRequiredCheckBox.Location = new System.Drawing.Point(36, 73);
+            this.MediaRequiredCheckBox.Name = "MediaRequiredCheckBox";
+            this.MediaRequiredCheckBox.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.MediaRequiredCheckBox.Size = new System.Drawing.Size(101, 17);
+            this.MediaRequiredCheckBox.TabIndex = 4;
+            this.MediaRequiredCheckBox.Text = "Media Required";
+            this.MediaRequiredCheckBox.UseVisualStyleBackColor = true;
+            // 
+            // MenuItemContextMenuStrip
+            // 
+            this.MenuItemContextMenuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.addSubItemToolStripMenuItem,
+            this.deleteItemToolStripMenuItem});
+            this.MenuItemContextMenuStrip.Name = "MenuItemContextMenuStrip";
+            this.MenuItemContextMenuStrip.Size = new System.Drawing.Size(181, 70);
+            // 
+            // addSubItemToolStripMenuItem
+            // 
+            this.addSubItemToolStripMenuItem.Name = "addSubItemToolStripMenuItem";
+            this.addSubItemToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.addSubItemToolStripMenuItem.Text = "Add Sub Item";
+            this.addSubItemToolStripMenuItem.Click += new System.EventHandler(this.addSubItemToolStripMenuItem_Click);
+            // 
+            // deleteItemToolStripMenuItem
+            // 
+            this.deleteItemToolStripMenuItem.Name = "deleteItemToolStripMenuItem";
+            this.deleteItemToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.deleteItemToolStripMenuItem.Text = "Delete Item";
+            this.deleteItemToolStripMenuItem.Click += new System.EventHandler(this.deleteItemToolStripMenuItem_Click);
             // 
             // ItemManager
             // 
             this.AcceptButton = this.OKButton;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.CancelButton = this.CancelButton;
             this.ClientSize = new System.Drawing.Size(747, 451);
             this.Controls.Add(this.FileGroupBox);
             this.Controls.Add(this.MetaGroupBox);
@@ -271,7 +433,7 @@
             this.Controls.Add(this.OKButton);
             this.Controls.Add(this.MenuItemTreeView);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "ItemManager";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "CDMenu - Item Manager";
@@ -279,6 +441,7 @@
             this.MetaGroupBox.PerformLayout();
             this.FileGroupBox.ResumeLayout(false);
             this.FileGroupBox.PerformLayout();
+            this.MenuItemContextMenuStrip.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -306,5 +469,8 @@
         private System.Windows.Forms.Button LaunchPathBrowseButton;
         private System.Windows.Forms.TextBox ImageTextBox;
         private System.Windows.Forms.TextBox LaunchPathTextBox;
+        private System.Windows.Forms.ContextMenuStrip MenuItemContextMenuStrip;
+        private System.Windows.Forms.ToolStripMenuItem addSubItemToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem deleteItemToolStripMenuItem;
     }
 }

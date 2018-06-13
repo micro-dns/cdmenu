@@ -120,6 +120,7 @@
     <Compile Include="SubForms\Message.Designer.cs">
       <DependentUpon>Message.cs</DependentUpon>
     </Compile>
+    <Compile Include="Util\ItemNode.cs" />
     <Compile Include="Util\KVPair.cs" />
     <Compile Include="Util\KVList.cs" />
     <Compile Include="Util\FileIO.cs" />

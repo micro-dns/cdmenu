@@ -82,7 +82,10 @@ namespace CDMenu
             //todo uncomment
             Application.EnableVisualStyles();
             //Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CDMenuWindow());
+            //Application.Run(new CDMenuWindow());
+
+            SubForms.ItemManager manager = new SubForms.ItemManager();
+            manager.ShowDialog();
 
             /*
             if (File.Exists(WORKING_DIR + @"\" + MAIN_MENU_FILE))
