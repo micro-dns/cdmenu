@@ -22,3 +22,13 @@ BUGS
 	Actual thrown exception must be different than file not found. 
 	Check if try/catch statement differentiates between the two.
 
+v2.0
+- .json format
+
+
+v1.6
+- .menu format
+
+
+v1.0
+- .dns format
