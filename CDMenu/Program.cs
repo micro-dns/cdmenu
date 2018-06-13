@@ -67,6 +67,7 @@ namespace CDMenu
                 {
                     Console.WriteLine(".dns file found. Crawling and converting");
                     //crawl .dns files
+                    CrawlDNS(cdmenu_dns_path);
                 }
 
                 startupmsg.Add("No main menu file was found, so a default menu.json file was created at \"PATH\". Be sure to add items to CDMenu!");
@@ -103,6 +104,16 @@ namespace CDMenu
             //Application.EnableVisualStyles();
             //Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new CDMenuWindow());
+        }
+
+        static void CrawlDNS(String filepath)
+        {
+            String[] content = File.ReadAllLines(filepath);
+
+            foreach (String s in content)
+            {
+                Console.WriteLine(s);
+            }
         }
     }
 }

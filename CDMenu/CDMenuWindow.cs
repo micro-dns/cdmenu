@@ -217,7 +217,11 @@ namespace CDMenu
                 }
                 else //if path is not a main menu, default to index 1 (right after the [ BACK ] path)
                 {
-                    MenuItemList.SetSelected(1, true);
+                    //if there is at least one item
+                    if (MenuItemList.Items.Count > 0)
+                    {
+                        MenuItemList.SetSelected(1, true);
+                    }
                 }
 
                 current = path;

@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CDMenu.exe" size="163328">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CDMenu.exe" size="163840">
       <assemblyIdentity name="CDMenu" version="1.6.1.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VfvApuhA26N7yqqei+s8QjoMhEMIQANw2DEF0dp9aCU=</dsig:DigestValue>
+        <dsig:DigestValue>n+GaNfFmHzioiKAlGZSepE1sWN1nXblFmqbPf6f5mVY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -75,13 +75,13 @@
       <dsig:DigestValue>8TxkWAV2N+iYNnvBV4XrZx6oD4EYIiEczND0bjZmtV8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="README.txt" size="1021">
+  <file name="README.txt" size="1076">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ziZC9zvVyOzWYlkbxF/EBpZoMppQbaL+Anbp73MGl4U=</dsig:DigestValue>
+      <dsig:DigestValue>jK21c/BPNPFm1Ujmdag9jm8Q+8X2zfa+ixEPV41tevc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\CDMenu Icon.ico" size="24277">
