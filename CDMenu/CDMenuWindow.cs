@@ -10,7 +10,7 @@ namespace CDMenu
 
     public partial class CDMenuWindow : Form
     {
-        public String current = Program.MAIN_MENU_FILE;
+        public String current = Program.SETTINGS.MAIN_MENU_FILE;
         public int LastMainIndex = 0;
 
         public int firstRun = 0; //This checks to see if this is the first run
@@ -24,7 +24,7 @@ namespace CDMenu
             this.MaximizeBox = false;
             this.MinimizeBox = false;
 
-            int state = LoadMenu(Program.MAIN_MENU_FILE);
+            int state = LoadMenu(Program.SETTINGS.MAIN_MENU_FILE);
 
             LastMainIndex = 0;
             

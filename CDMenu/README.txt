@@ -23,10 +23,12 @@ BUGS
 	Check if try/catch statement differentiates between the two.
 
 v2.0
+Switching to a standardized json format.
 - .json format
 
 
 v1.6
+Updated UI.
 - .menu format
 
 

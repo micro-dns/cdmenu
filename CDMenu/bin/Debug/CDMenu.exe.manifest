@@ -50,7 +50,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pNcAG2Ohb9U40qVEcrw1D4DfeUy2hJsWDvoGlEZx1ZE=</dsig:DigestValue>
+        <dsig:DigestValue>VfvApuhA26N7yqqei+s8QjoMhEMIQANw2DEF0dp9aCU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -75,13 +75,13 @@
       <dsig:DigestValue>8TxkWAV2N+iYNnvBV4XrZx6oD4EYIiEczND0bjZmtV8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="README.txt" size="950">
+  <file name="README.txt" size="1021">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>qxwfqW6A50mlRhVKwYJINOTv0z6ba3Y3gbbdcEb6rDI=</dsig:DigestValue>
+      <dsig:DigestValue>ziZC9zvVyOzWYlkbxF/EBpZoMppQbaL+Anbp73MGl4U=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\CDMenu Icon.ico" size="24277">

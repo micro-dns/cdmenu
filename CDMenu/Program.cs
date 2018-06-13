@@ -48,6 +48,7 @@ namespace CDMenu
                 startupmsg.Add("No settings file was found, so a default settings.json file was created at \"" + SettingsFilePath + "\".");
             }
 
+            Console.WriteLine(SETTINGS.MAIN_MENU_FILE);
             String MenuFilePath = Path.GetFullPath(SETTINGS.MAIN_MENU_FILE);
             if (File.Exists(MenuFilePath))
             {
@@ -80,7 +81,7 @@ namespace CDMenu
             //todo uncomment
             Application.EnableVisualStyles();
             //Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainWindow());
+            Application.Run(new CDMenuWindow());
 
             /*
             if (File.Exists(WORKING_DIR + @"\" + MAIN_MENU_FILE))
