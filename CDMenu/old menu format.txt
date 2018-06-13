@@ -1,0 +1,13 @@
+v2 menu format:
+
+;Hamilton Library CD-Rom Menu
+;Revised September 28, 2016 for Version 1.6.
+
+;PARENT=		Path to previous item
+
+CALLNO=			Call number
+PRIMARY_TITLE=		Primary title
+SECONDARY_TITLE=	Secondary title
+PATH=			Path to the specified entry
+NEEDS_MEDIA=		FALSE
+DESCRIPTION=		Description

@@ -15,7 +15,7 @@ namespace CDMenu
         public String SECONDARY_TITLE { get; set; }
         public String LAUNCH_PATH { get; set; }
         public String IMAGE_PATH { get; set; }
-        public String REQUIRED { get; set; }
+        public String MEDIA_REQUIRED { get; set; }
         public String DESCRIPTION { get; set; }
 
         public Boolean IsBackLink { get; set; }
