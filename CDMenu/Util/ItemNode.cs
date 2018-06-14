@@ -19,6 +19,6 @@ namespace CDMenu.Util
         public String IMAGE_PATH { get; set; }
         public String MEDIA_REQUIRED { get; set; }
 
-
+        //https://stackoverflow.com/questions/548129/what-is-the-best-way-to-store-data-on-a-treeview-node
     }
 }
